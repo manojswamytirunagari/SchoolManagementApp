@@ -1,4 +1,4 @@
-const API_BASE = "https://school-api-backend.up.railway.app";
+const API_BASE = "https://schoolmanagementapp-eaoq.onrender.com";
 
 const addForm = document.getElementById('addForm');
 const schoolTable = document.getElementById('schoolTable').querySelector('tbody');
